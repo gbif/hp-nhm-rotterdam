@@ -16,10 +16,10 @@ columns:
 
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+    #  Social icons links defined in `_config.yml`
+      * Westzeedijk 345
+      * 3015 AA Rotterdam
+      * The Netherlands
     connectIcons: true
 
   # EXAMPLE
