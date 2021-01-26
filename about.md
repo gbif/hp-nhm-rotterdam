@@ -1,12 +1,15 @@
 ---
 lang-ref: about
-title: Online database of the Natural History Museum Rotterdam
+title: About
 description: Specimen database of the Natural History Museum Rotterdam. The total collection is estimated to hold 373,200 specimens, of which around 85% are digitized at the specimen level and contained in this dataset. Arthropods (56%; mostly European) and molluscs (30%; worldwide recent specimens, fossil specimens from North-West Europe) make up the bulk of the collection. Chordates make up 9% of the collection and include a significant amount of fossil terrestrial and marine vertebrates from the Netherlands and the southern North Sea, while recent specimens predominantly originate from the Netherlands. Plants make up 5% of the collection and originate almost exclusively from the Netherlands. The collections of other taxonomic groups, e.g. Fungi and various marine invertebrates, are small, but do contain well documented interesting records.
 background: /assets/images/studyskinslowres.jpg
 imageLicense: |
   Photo by Natural History Museum Rotterdam
 height: 70vh
 ---
+
+## The Natural History Museum Rotterdam
+The Natural History Museum Rotterdam is run by a non-profit foundation and is financially supported by the Rotterdam city council. It is a medium sized museum with two departments: the museum (that runs the exhibitions, welcomes the public and maintains the collection) and the Rotterdam Urban Ecology Unit that studies the flora and fauna of the Rotterdam area and also does commercial work advising on ecological aspects of property development and urban planning.
 
 ## Procris quippe mentior urbes ubi
 
