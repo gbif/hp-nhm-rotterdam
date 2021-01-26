@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Online database of the Natural History Museum Rotterdam
 description: Search the digitized collection of the Natural History Museum Rotterdam, which contains over 330,000 specimen records and over 20,000 photos.
-background: background: /assets/images/studyskinslowres.jpg
+background: /assets/images/studyskinslowres.jpg
 imageLicense: |
   Photo by Natural History Museum Rotterdam
 cta:
