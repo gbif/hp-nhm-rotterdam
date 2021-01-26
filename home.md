@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: Online database of the Natural History Museum Rotterdam
 description: Search the digitized collection of the Natural History Museum Rotterdam, which contains over 330,000 specimen records and over 20,000 photos.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: background: /assets/images/studyskinslowres.jpg
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  Photo by Natural History Museum Rotterdam
 cta:
   - text: Start exploring
     href: /data
