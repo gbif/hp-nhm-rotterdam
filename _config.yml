@@ -24,8 +24,6 @@ description: Search the digitized collection of the Natural History Museum Rotte
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hetnatuurhist
-facebook_username: hetnatuurhistorisch
-instagram_username: het_natuurhistorisch
 # github_username:  jekyll
 
 # Build settings
