@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: About
+title: Online database of the Natural History Museum Rotterdam
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
