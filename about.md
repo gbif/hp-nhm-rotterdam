@@ -11,6 +11,7 @@ height: 70vh
 ## The Natural History Museum Rotterdam
 The Natural History Museum Rotterdam is run by a non-profit foundation and is financially supported by the Rotterdam city council. It is a medium sized museum with two departments: the museum (that runs the exhibitions, welcomes the public and maintains the collection) and the Rotterdam Urban Ecology Unit that studies the flora and fauna of the Rotterdam area and also does commercial work advising on ecological aspects of property development and urban planning.
 
+{% comment %} 
 ## Procris quippe mentior urbes ubi
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
@@ -93,3 +94,4 @@ dependent artisque audacem habuissem, et est rebus, sed?
 
 Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
 tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+{% endcomment %}
