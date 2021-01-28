@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 description: This portal provides access to the specimen database of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en). The total museum collection is estimated to hold over 375,000 specimens, of which around 85% are digitized at the specimen level and contained in this dataset. Arthropods (56%; mostly European) and molluscs (30%; worldwide recent specimens, fossil specimens from North-West Europe) make up the bulk of the collection. Chordates make up 9% of the collection and include a significant amount of fossil terrestrial and marine vertebrates from the Netherlands and the southern North Sea, while recent specimens predominantly originate from the Netherlands. Plants make up 5% of the collection and originate almost exclusively from the Netherlands. The collections of other taxonomic groups, e.g. Fungi and various marine invertebrates, are small, but do contain well documented interesting records.
-background: /assets/images/studyskinslowres.jpg
+background: /assets/images/molluscslowres.jpg
 imageLicense: |
   Photo by Natural History Museum Rotterdam
 height: 70vh
