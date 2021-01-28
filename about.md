@@ -2,18 +2,16 @@
 lang-ref: about
 title: About
 description: This portal provides access to the specimen database of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en). The total museum collection is estimated to hold over 375,000 specimens, of which around 85% are digitized at the specimen level and contained in this dataset. Arthropods (56%; mostly European) and molluscs (30%; worldwide recent specimens, fossil specimens from North-West Europe) make up the bulk of the collection. Chordates make up 9% of the collection and include a significant amount of fossil terrestrial and marine vertebrates from the Netherlands and the southern North Sea, while recent specimens predominantly originate from the Netherlands. Plants make up 5% of the collection and originate almost exclusively from the Netherlands. The collections of other taxonomic groups, e.g. Fungi and various marine invertebrates, are small, but do contain well documented interesting records.
-
-The [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) is run by a non-profit foundation and is financially supported by the Rotterdam city council. It is a medium sized museum with two departments: the museum (that runs the exhibitions, welcomes the public and maintains the collection) and the Rotterdam Urban Ecology Unit that studies the flora and fauna of the Rotterdam area and also does commercial work advising on ecological aspects of property development and urban planning. The collection forms the foundation of the Natural History Museum Rotterdam. It is used in exhibitions, museum education, research and publications. The Natural History Museum Rotterdam welcomes researchers to study its collection or use its data and has an active collection policy which results in a continuously growing collection that is available to scientists worldwide; please [enquire](https://www.hetnatuurhistorisch.nl/en/contact/) for details.
 background: /assets/images/molluscslowres.jpg
 imageLicense: |
   Photo by Natural History Museum Rotterdam
 height: 70vh
 ---
 
-{% comment %} 
 ## The Natural History Museum Rotterdam
 The [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) is run by a non-profit foundation and is financially supported by the Rotterdam city council. It is a medium sized museum with two departments: the museum (that runs the exhibitions, welcomes the public and maintains the collection) and the Rotterdam Urban Ecology Unit that studies the flora and fauna of the Rotterdam area and also does commercial work advising on ecological aspects of property development and urban planning. The collection forms the foundation of the Natural History Museum Rotterdam. It is used in exhibitions, museum education, research and publications. The Natural History Museum Rotterdam welcomes researchers to study its collection or use its data and has an active collection policy which results in a continuously growing collection that is available to scientists worldwide; please [enquire](https://www.hetnatuurhistorisch.nl/en/contact/) for details.
 
+{% comment %} 
 ## Procris quippe mentior urbes ubi
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
