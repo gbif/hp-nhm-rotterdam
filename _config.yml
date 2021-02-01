@@ -100,3 +100,8 @@ defaults:
       path: "da/"
     values:
       lang: da
+  -
+    scope:
+      path: "nl/"
+    values:
+      lang: nl
