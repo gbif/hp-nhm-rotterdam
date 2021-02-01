@@ -13,8 +13,7 @@ columns:
       This project is open source.
   
   - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+    description: | # Can be Markdown Social icons links defined in `_config.yml`
       * Westzeedijk 345
       * 3015 AA Rotterdam
       * [website](https://www.hetnatuurhistorisch.nl/)
