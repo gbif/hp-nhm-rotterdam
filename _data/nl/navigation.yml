@@ -4,7 +4,6 @@
   href: /nl/over
 - text: Data
   href: /nl/data
-{% comment %}
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base tema demo
@@ -17,6 +16,5 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: Lær YAML
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-{% endcomment %}
 - text: Nieuws
   href: /nl/nieuws/
