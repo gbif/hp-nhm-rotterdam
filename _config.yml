@@ -76,6 +76,7 @@ exclude:
   - .LICENSE
   - .netlify.toml
   - .README.md
+  - .da/
 
 defaults:
   -
