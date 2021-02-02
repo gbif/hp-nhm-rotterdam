@@ -10,7 +10,7 @@ columns:
     
   - name: Code
     description: | # Can be Markdown
-      This project is open source.
+      Dit project is open source.
   
   - name: Contact
     description: | # Can be Markdown Social icons links defined in `_config.yml`
