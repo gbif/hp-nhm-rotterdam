@@ -95,12 +95,12 @@ defaults:
       path: ""
     values:
       lang: en
-   -
+  -
     scope:
       path: "da/"
     values:
       lang: da
-   -
+  -
     scope:
       path: "nl/"
     values:
