@@ -3,7 +3,7 @@ title:  "Welcome to Jekyll!"
 date:   2021-03-03 16:30:00 +0200
 categories: update
 lang-ref: welcome to online database
-background: http://via.placeholder.com/600x300
+background: https://github.com/gbif/hp-nhm-rotterdam/blob/master/assets/images/molluscslowres.jpg
 ---
 
 test
