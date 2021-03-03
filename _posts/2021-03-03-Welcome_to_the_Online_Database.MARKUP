@@ -3,7 +3,7 @@ title:  "Welcome to the Online Database!"
 date:   2021-03-03 16:30:00 +0200
 categories: update
 lang-ref: welcome to online database
-background: https://github.com/gbif/hp-nhm-rotterdam/blob/master/assets/images/molluscslowres.jpg
+background: /assets/images/molluscslowres.jpg
 ---
 
 test
