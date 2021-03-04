@@ -36,3 +36,5 @@ Crustaceans |
 Echinoderms | 
 Cnidarians | 
 Sponges | 
+
+The next update of the dataset will be in circa 1 month.
