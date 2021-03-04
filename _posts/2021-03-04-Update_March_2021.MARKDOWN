@@ -1,6 +1,6 @@
 ---
 title:  "Dataset update March, 2021"
-date:   2021-03-04 04:00:00 +0200
+date:   2021-03-04
 categories: update
 lang-ref: dataset update march, 2021
 background: /assets/images/NMR998900172803Blowresframe.jpg
