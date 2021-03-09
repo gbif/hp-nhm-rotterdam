@@ -3,5 +3,5 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 
 var siteConfig = {
-  rootPredicate: { type: 'equals', key: 'datasetKey', value: 'a307e4d7-1de2-4adc-95d5-a0a8d5f57236' }
+  rootPredicate: { type: 'equals', key: 'collectionID', value: '187a8a55-7de6-4230-8250-7d4ee274004f' }
 };
