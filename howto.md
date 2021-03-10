@@ -13,6 +13,12 @@ On the Database page the collection data of the Natural History Museum Rotterdam
 
 <img src="/assets/images/greenboxes.jpg">
 
-For example, by clicking Scientific name and searching for Mammuthus primigenius, all specimens of that taxon are displayed. This can be further refined by selecting other boxes and adding data in there. The box Similar text is very useful. By querying Scientific name for Mammuthus primigenius and Similar text for femur, all woolly mammoth femurs in the museum collection are displayed. Finally, simply click a record to see all details of that particular specimen. For any questions regarding specimens or searching the database, feel free to [contact us](https://www.hetnatuurhistorisch.nl/en/contact/).
+For example, by clicking Scientific name and searching for Mammuthus primigenius, all specimens of that taxon are displayed. This can be further refined by selecting other boxes and adding data in there. The box Similar text is very useful. By querying Scientific name for Mammuthus primigenius and Similar text for femur, all woolly mammoth femurs in the museum collection are displayed. Finally, simply click a record to see all details of that particular specimen. 
 
 <img src="/assets/images/examplequery.jpg">
+
+Using the buttons below the green boxes, one can switch between a table view (displaying all matching records), a map view (displaying georeferenced matching records) and a gallery view (displaying photographs of matching records).
+
+<img src="/assets/images/tablemapgallery.jpg">
+
+For any questions regarding specimens or searching the database, feel free to [contact us](https://www.hetnatuurhistorisch.nl/en/contact/).
