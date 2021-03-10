@@ -13,6 +13,12 @@ Op de pagina Database wordt de collectie van het Natuurhistorisch Museum Rotterd
 
 <img src="/assets/images/greenboxes.jpg">
 
-Een voorbeeld: door op Scientific name te klikken en te doorzoeken op Mammuthus primigenius, worden alle monsters van die soort weergegeven. De resultaten kunnen nog verder aangepast worden door andere groene knoppen te gebruiken. De knop Similar text is erg handig. Door Scientific name met Mammuthus primigenius en Similar text met femur te doorzoeken, worden alle dijbeenderen van de wolharige mammoet in de museumcollectie zichtbaar. Ten slotte kan een monster aangeklikt worden om alle details te zien. Neem gerust [contact](https://www.hetnatuurhistorisch.nl/contact/) op bij vragen over de collectie of het gebruik van de database.
+Een voorbeeld: door op Scientific name te klikken en te doorzoeken op Mammuthus primigenius, worden alle monsters van die soort weergegeven. De resultaten kunnen nog verder aangepast worden door andere groene knoppen te gebruiken. De knop Similar text is erg handig. Door Scientific name met Mammuthus primigenius en Similar text met femur te doorzoeken, worden alle dijbeenderen van de wolharige mammoet in de museumcollectie zichtbaar. Ten slotte kan een monster aangeklikt worden om alle details te zien.
 
 <img src="/assets/images/examplequery.jpg">
+
+Met knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle matchende monsters) naar een kaart (met matches die coördinaten hebben) en een gallerij (met matches die voorzien zijn van een of meer foto's).
+
+<img src="/assets/images/tablemapgallery.jpg">
+
+Neem gerust [contact](https://www.hetnatuurhistorisch.nl/contact/) op bij vragen over de collectie of het gebruik van de database.
