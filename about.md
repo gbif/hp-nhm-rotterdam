@@ -18,8 +18,8 @@ The [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) (i
 
 Taxonomic group | Number of specimens
 ---------- | ----------  
-Total | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236"></span>
-Birds | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=212"></span>
+Total | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span>
+Birds | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=212&limit=0"></span>
 Arthropods | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=54"></span>
 Land mammals | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=&taxon_key=5307&taxon_key=9701&taxon_key=9703&taxon_key=5306&taxon_key=5311&taxon_key=5312&taxon_key=9678&taxon_key=9679&taxon_key=9673&taxon_key=5308&taxon_key=731&taxon_key=795&taxon_key=799&taxon_key=1459&taxon_key=734&taxon_key=798&taxon_key=785&taxon_key=803&taxon_key=829&taxon_key=1452&taxon_key=1453&taxon_key=783&taxon_key=791&taxon_key=1494&taxon_key=735&taxon_key=796&taxon_key=784&taxon_key=2433433&taxon_key=4833659&taxon_key=2433407&taxon_key=4970092&taxon_key=2433399&taxon_key=9335260&taxon_key=9335699&advanced=1"></span>
 Marine mammals | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=9680&taxon_key=5310&taxon_key=733&taxon_key=5309&taxon_key=802&taxon_key=2433451&advanced=1"></span>
