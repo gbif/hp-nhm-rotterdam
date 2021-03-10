@@ -2,7 +2,7 @@
 lang-ref: howto
 title: How to
 description: This page provides brief instructions on how to search the specimen database of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en).
-background: /assets/images/howtobackground.jpg
+background: /assets/images/howtobackgroundedit.jpg
 imageLicense: |
   Photo by Natural History Museum Rotterdam
 height: 70vh
