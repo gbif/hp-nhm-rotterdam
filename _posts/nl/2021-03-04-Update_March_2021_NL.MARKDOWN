@@ -28,7 +28,6 @@ Bedektzadigen |
 Naaktzadigen | 
 Mossen | 
 Levermossen | 
-Wieren | 
 Schimmels | 
 Manteldieren | 
 Ringwormen | 
