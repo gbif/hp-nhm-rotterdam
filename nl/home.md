@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Online database van het Natuurhistorisch Museum Rotterdam
-description: Doorzoek de gedigitaliseerde collectie van het Natuurhistorisch Museum Rotterdam, met meer dan 330.000 objecten en ruim 20.000 foto's.
+description: Doorzoek de gedigitaliseerde collectie van het Natuurhistorisch Museum Rotterdam, met <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236"></span> objecten en ruim 20.000 foto's.
 background: /assets/images/studyskinslowres.jpg
 imageLicense: |
   Foto Natuurhistorisch Museum Rotterdam
