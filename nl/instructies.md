@@ -17,7 +17,7 @@ Een voorbeeld: door op Scientific name te klikken en te doorzoeken op Mammuthus 
 
 <img src="/assets/images/examplequery.jpg">
 
-Met knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle matchende monsters) naar een kaart (met matches die coördinaten hebben) en een gallerij (met matches die voorzien zijn van een of meer foto's).
+Met de knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle matchende monsters) naar een kaart (met matches die geografische coördinaten hebben) en een galerij (met matches die voorzien zijn van een of meer foto's).
 
 <img src="/assets/images/tablemapgallery.jpg">
 
