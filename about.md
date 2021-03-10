@@ -14,7 +14,7 @@ Arthropods (56%; mostly European) and molluscs (30%; worldwide recent specimens,
 ## The Natural History Museum Rotterdam
 The [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) (in Dutch: 'Natuurhistorisch Museum Rotterdam' or 'Het Natuurhistorisch') is run by a non-profit foundation and is financially supported by the Rotterdam city council. It is a medium sized museum with two departments: the museum (that runs the exhibitions, welcomes the public and maintains the collection) and the Rotterdam Urban Ecology Unit that studies the flora and fauna of the Rotterdam area and also does commercial work advising on ecological aspects of property development and urban planning. The [collection](https://www.hetnatuurhistorisch.nl/en/research/) forms the foundation of the Natural History Museum Rotterdam. It is used in [exhibitions](https://www.hetnatuurhistorisch.nl/en/exhibitions/), [museum education](https://www.hetnatuurhistorisch.nl/en/education/), [research](https://www.hetnatuurhistorisch.nl/en/research/) and [publications](https://www.hetnatuurhistorisch.nl/organisatie/publicaties/deinsea/). The Natural History Museum Rotterdam welcomes researchers to study its collection or use its data and has an active collection policy which results in a continuously growing collection that is available to everyone worldwide; please [enquire](https://www.hetnatuurhistorisch.nl/en/contact/) for details.
 
-## Numbers of specimens in the dataset
+## Number of specimens in the dataset
 
 Taxonomic group | Number of specimens
 ---------- | ----------  
