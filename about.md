@@ -18,7 +18,7 @@ The [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) (i
 
 Taxonomic group | Number of specimens
 ---------- | ----------  
-Total | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span>
+Total | -<span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span>
 Specimen photos | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&mediaType=StillImage&limit=0"></span>
 Birds | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=212&limit=0"></span>
 Arthropods | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=54&limit=0"></span>
