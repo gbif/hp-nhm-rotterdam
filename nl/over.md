@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Over
-description: Deze website geeft toegang tot de digitale collectiedatabase van het [Natuurhistorisch Museum Rotterdam](https://www.hetnatuurhistorisch.nl/). De totale collectie wordt geschat op meer dan 400.000 monsters (objecten). Daarvan is zo'n 85% gedigitaliseerd op monsterniveau en toegankelijk via deze website.
+description: Deze website geeft toegang tot de digitale collectiedatabase van het [Natuurhistorisch Museum Rotterdam](https://www.hetnatuurhistorisch.nl/). De totale collectie wordt geschat op meer dan 400.000 monsters (objecten). Daarvan zijn er <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span> (ca. 85%) gedigitaliseerd op monsterniveau en toegankelijk via deze website.
 background: /assets/images/molluscslowres.jpg
 imageLicense: |
   Foto Natuurhistorisch Museum Rotterdam
