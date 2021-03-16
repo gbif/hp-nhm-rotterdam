@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: About
-description: This portal provides access to the specimen database of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en). The total museum collection is estimated to hold over 400,000 specimens, of which around 85% are digitized at the specimen level and contained in this dataset.
+description: This portal provides access to the specimen database of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en). The total museum collection is estimated to hold over 400,000 specimens, of which <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span> (c. 85%) are digitized at the specimen level and contained in this dataset.
 background: /assets/images/molluscslowres.jpg
 imageLicense: |
   Photo by Natural History Museum Rotterdam
