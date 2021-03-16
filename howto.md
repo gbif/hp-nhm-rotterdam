@@ -9,11 +9,11 @@ height: 70vh
 ---
 
 ## Querying the dataset
-On the Database page the collection data of the Natural History Museum Rotterdam is displayed. By clicking the green boxes (e.g. Scientific name) displayed above on that page, one can search that particular field and limit the displayed records to their query.
+On the [Database page](https://hp-nhm-rotterdam.gbif-staging.org/data) the collection data of the Natural History Museum Rotterdam is displayed. By clicking the green boxes (e.g. **Scientific name**) displayed above on that page, one can search that particular field and limit the displayed records to their query.
 
 <img src="/assets/images/greenboxes2.jpg">
 
-For example, by clicking Scientific name and searching for Mammuthus primigenius, all specimens of that taxon are displayed. This can be further refined by selecting other boxes and adding data in there. The box Similar text is very useful. By querying Scientific name for Mammuthus primigenius and Similar text for femur, all woolly mammoth femurs in the museum collection are displayed. Finally, simply click a record to see all details of that particular specimen. 
+For example, by clicking **Scientific name** and searching for _Mammuthus primigenius_, all specimens of that taxon are displayed. This can be further refined by selecting other boxes and adding data in there. The box **Keyword search** is very useful. By querying **Scientific** name for _Mammuthus primigenius_ and **Keyword search** for _femur_, all woolly mammoth femurs in the museum collection are displayed. Finally, simply click a record to see all details of that particular specimen. 
 
 <img src="/assets/images/examplequery2.jpg">
 
