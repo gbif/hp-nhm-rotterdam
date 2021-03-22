@@ -16,10 +16,12 @@ Het [Natuurhistorisch Museum Rotterdam](https://www.hetnatuurhistorisch.nl/), ko
 
 ## Aantal monsters in de dataset
 
+Totaalaantal exemplaren: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span>
+
+Objectfoto's: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&mediaType=StillImage&limit=0"></span>
+
 Taxonomische groep | Aantal monsters
 ---------- | ----------  
-Totaal | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span>
-Objectfoto's | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&mediaType=StillImage&limit=0"></span>
 Vogels | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=212&limit=0"></span>
 Geleedpotigen | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=54&limit=0"></span>
 Landzoogdieren | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=&taxon_key=5307&taxon_key=9701&taxon_key=9703&taxon_key=5306&taxon_key=5311&taxon_key=5312&taxon_key=9678&taxon_key=9679&taxon_key=9673&taxon_key=5308&taxon_key=731&taxon_key=795&taxon_key=799&taxon_key=1459&taxon_key=734&taxon_key=798&taxon_key=785&taxon_key=803&taxon_key=829&taxon_key=1452&taxon_key=1453&taxon_key=783&taxon_key=791&taxon_key=1494&taxon_key=735&taxon_key=796&taxon_key=784&taxon_key=2433433&taxon_key=4833659&taxon_key=2433407&taxon_key=4970092&taxon_key=2433399&taxon_key=9335260&taxon_key=9335699&limit=0"></span>
