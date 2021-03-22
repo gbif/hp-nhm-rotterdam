@@ -17,6 +17,7 @@ The [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) (i
 ## Number of specimens in the dataset
 
 Total specimens: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&limit=0"></span>
+
 Specimen photos: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&mediaType=StillImage&limit=0"></span>
 
 Taxonomic group | Number of specimens
