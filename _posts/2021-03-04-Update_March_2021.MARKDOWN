@@ -11,29 +11,29 @@ The natural history collection dataset of the [Natural History Museum Rotterdam]
 Taxonomic group | Number of new records
 ---------- | ----------  
 Specimen photos | 
-Birds | 
 Arthropods | 
-Land mammals | 
-Marine mammals | 
 Molluscs | 
+Flowering plants | 
+Marine mammals | 
+Land mammals | 
+Birds | 
+Mosses | 
+Crustaceans | 
 Bony fishes | 
+Fungi | 
 Cartilaginous fishes | 
 Reptiles | 
-Amphibians | 
-Lampreys | 
-Clubmosses | 
-Ferns | 
-Flowering plants | 
-Gymnosperms | 
-Mosses | 
 Liverworts | 
-Fungi | 
-Tunicates | 
-Ringed worms | 
-Round worms | 
-Crustaceans | 
+Ferns | 
 Echinoderms | 
 Cnidarians | 
+Ringed worms | 
+Amphibians | 
+Tunicates | 
+Clubmosses | 
 Sponges | 
+Gymnosperms | 
+Lampreys | 
+Round worms | 
 
 The next update of the dataset will be in circa 1 month.
