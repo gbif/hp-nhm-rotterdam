@@ -22,30 +22,30 @@ Specimen photos: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?
 
 Taxonomic group | Number of specimens
 ---------- | ----------  
-Birds | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=212&limit=0"></span>
 Arthropods | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=54&limit=0"></span>
-Land mammals | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=&taxon_key=5307&taxon_key=9701&taxon_key=9703&taxon_key=5306&taxon_key=5311&taxon_key=5312&taxon_key=9678&taxon_key=9679&taxon_key=9673&taxon_key=5308&taxon_key=731&taxon_key=795&taxon_key=799&taxon_key=1459&taxon_key=734&taxon_key=798&taxon_key=785&taxon_key=803&taxon_key=829&taxon_key=1452&taxon_key=1453&taxon_key=783&taxon_key=791&taxon_key=1494&taxon_key=735&taxon_key=796&taxon_key=784&taxon_key=2433433&taxon_key=4833659&taxon_key=2433407&taxon_key=4970092&taxon_key=2433399&taxon_key=9335260&taxon_key=9335699&limit=0"></span>
-Marine mammals | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=9680&taxon_key=5310&taxon_key=733&taxon_key=5309&taxon_key=802&taxon_key=2433451&limit=0"></span>
 Molluscs | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=52&limit=0"></span>
+Flowering plants | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=220&taxon_key=196&limit=0"></span>
+Marine mammals | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=9680&taxon_key=5310&taxon_key=733&taxon_key=5309&taxon_key=802&taxon_key=2433451&limit=0"></span>
+Land mammals | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=&taxon_key=5307&taxon_key=9701&taxon_key=9703&taxon_key=5306&taxon_key=5311&taxon_key=5312&taxon_key=9678&taxon_key=9679&taxon_key=9673&taxon_key=5308&taxon_key=731&taxon_key=795&taxon_key=799&taxon_key=1459&taxon_key=734&taxon_key=798&taxon_key=785&taxon_key=803&taxon_key=829&taxon_key=1452&taxon_key=1453&taxon_key=783&taxon_key=791&taxon_key=1494&taxon_key=735&taxon_key=796&taxon_key=784&taxon_key=2433433&taxon_key=4833659&taxon_key=2433407&taxon_key=4970092&taxon_key=2433399&taxon_key=9335260&taxon_key=9335699&limit=0"></span>
+Birds | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=212&limit=0"></span>
+Mosses | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=35&limit=0"></span>
+Crustaceans | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=229&taxon_key=281&taxon_key=236&taxon_key=235&taxon_key=203&taxon_key=353&limit=0"></span>
 Bony fishes | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=204&limit=0"></span>
+Fungi | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=5&limit=0"></span>
 Cartilaginous fishes | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=121&taxon_key=120&limit=0"></span>
 Reptiles | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=358&limit=0"></span>
-Amphibians | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=131&limit=0"></span>
-Lampreys | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=239&limit=0"></span>
-Clubmosses | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=245&limit=0"></span>
-Ferns | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=7228684&limit=0"></span>
-Flowering plants | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=220&taxon_key=196&limit=0"></span>
-Gymnosperms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=194&taxon_key=244&taxon_key=282&limit=0"></span>
-Mosses | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=35&limit=0"></span>
 Liverworts | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=9&limit=0"></span>
-Fungi | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=5&limit=0"></span>
-Tunicates | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=356&limit=0"></span>
-Ringed worms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=42&limit=0"></span>
-Round worms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=5967481&limit=0"></span>
-Crustaceans | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=229&taxon_key=281&taxon_key=236&taxon_key=235&taxon_key=203&taxon_key=353&limit=0"></span>
+Ferns | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=7228684&limit=0"></span>
 Echinoderms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=50&limit=0"></span>
 Cnidarians | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=43&limit=0"></span>
+Ringed worms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=42&limit=0"></span>
+Amphibians | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=131&limit=0"></span>
+Tunicates | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=356&limit=0"></span>
+Clubmosses | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=245&limit=0"></span>
 Sponges | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=105&limit=0"></span>
+Gymnosperms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=194&taxon_key=244&taxon_key=282&limit=0"></span>
+Lampreys | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=239&limit=0"></span>
+Round worms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=5967481&limit=0"></span>
 
 {% comment %} 
 ## Procris quippe mentior urbes ubi
