@@ -12,29 +12,29 @@ De dataset met de gedigitaliseerde collectie van het [Natuurhistorisch Museum Ro
 Taxonomische groep | Aantal nieuwe monsters
 ---------- | ----------  
 Objectfoto's | 
-Vogels | 
 Geleedpotigen | 
-Landzoogdieren | 
+Mollusken | 
+Bedektzadigen | 
 Zeezoogdieren | 
-Weekdieren | 
+Landzoogdieren | 
+Vogels | 
+Mossen | 
+Kreefachtigen | 
 Beenvissen | 
+Schimmels | 
 Kraakbeenvissen | 
 Reptielen | 
-Amfibieën | 
-Prikken | 
-Wolfsklauwen | 
-Varens | 
-Bedektzadigen | 
-Naaktzadigen | 
-Mossen | 
 Levermossen | 
-Schimmels | 
-Manteldieren | 
-Ringwormen | 
-Rondwormen | 
-Schaaldieren | 
+Varens | 
 Stekelhuidigen | 
 Neteldieren | 
+Ringwormen | 
+Amfibieën | 
+Manteldieren | 
+Wolfsklauwen | 
 Sponzen | 
+Naaktzadigen | 
+Prikken | 
+Rondwormen | 
 
 De volgende update van de dataset volgt over circa 1 maand.
