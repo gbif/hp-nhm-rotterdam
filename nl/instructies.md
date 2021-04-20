@@ -13,9 +13,13 @@ Op de [pagina Database](https://hp-nhm-rotterdam.gbif-staging.org/nl/data.html) 
 
 <img src="/assets/images/greenboxes4.jpg">
 
-Een voorbeeld: door op **Scientific name** te klikken en te doorzoeken op _Mammuthus primigenius_, worden alle monsters van die soort weergegeven. De resultaten kunnen nog verder aangepast worden door andere groene knoppen te gebruiken. De knop **Keyword search** is erg handig. Door **Scientific name** met _Mammuthus primigenius_ en **Keyword search** met _femur_ te doorzoeken, worden alle dijbeenderen van de wolharige mammoet in de museumcollectie zichtbaar. Handige termen voor **Keyword search** zijn: _complete specimen_, _mount_ (opgezette exemplaren), _skeleton_, _skull_ en _study skin_ (balgen). Zoek met _alcohol_ in **Keyword search** om materiaal te vinden dat op alcohol wordt bewaard. Men kan in dat veld ook zoeken naar individuele (fossiele) skeletelementen (zoals _calcaneum_, _canine_, _mandibula_, _patella_). Gebruik **Basis of record** om de resultaten te beperken tot fossiele (_Fossil specimen_) of recente (_Preserved specimen_) objecten. Ten slotte kan een monster aangeklikt worden om alle details te zien.
+Een voorbeeld: door op **Scientific name** te klikken en te doorzoeken op _Mammuthus primigenius_, worden alle monsters van die soort weergegeven. De resultaten kunnen nog verder aangepast worden door andere groene knoppen te gebruiken. De knop **Keyword search** is erg handig. Door **Scientific name** met _Mammuthus primigenius_ en **Keyword search** met _femur_ te doorzoeken, worden alle dijbeenderen van de wolharige mammoet in de museumcollectie zichtbaar.
 
 <img src="/assets/images/examplequery4.jpg">
+
+Handige termen voor **Keyword search** zijn: _complete specimen_, _mount_ (opgezette exemplaren), _skeleton_, _skull_ en _study skin_ (balgen). Zoek met _alcohol_ in **Keyword search** om materiaal te vinden dat op alcohol wordt bewaard. Men kan in dat veld ook zoeken naar individuele (fossiele) skeletelementen (zoals _calcaneum_, _canine_, _mandibula_, _patella_). Gebruik **Basis of record** om de resultaten te beperken tot fossiele (_Fossil specimen_) of recente (_Preserved specimen_) objecten. Ten slotte kan een monster aangeklikt worden om alle details te zien.
+
+<img src="/assets/images/detail.jpg">
 
 Met de knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle matchende monsters) naar een kaart (met matches die geografische coördinaten hebben) en een galerij (met matches die voorzien zijn van een of meer foto's).
 
