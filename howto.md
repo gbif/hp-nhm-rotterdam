@@ -21,7 +21,7 @@ Useful terms to search for in the field **Text search** include: _complete speci
 
 <img src="/assets/images/detail5.jpg">
 
-Using the buttons below the green boxes, one can switch between a table view (displaying all matching records), a map view (displaying georeferenced matching records) and a gallery view (displaying photographs of matching records). Use the Download button to download your selected records through [GBIF](https://www.gbif.org/).
+Using the buttons below the green boxes, one can switch between a table view (displaying all matching records), a map view (displaying georeferenced matching records) and a gallery view (displaying photographs of matching records). Use the Download button to download your selected records through [GBIF](https://www.gbif.org/). Follow the instructions provided by GBIF; that is either login to GBIF or create an account. One can then choose the option **Darwin Core Archive**, which downloads a folder with several files; all raw data as well as the interpreted data by GBIF are contained in the tab-delimited file occurrence.txt. Alternatively, one could choose the option **Simple**, which downloads a single tab-delimited csv file that contains most of the data. Either file can be opened with any program that can handle such files (e.g. Microsoft Excel or LibreOffice Calc).
 
 <img src="/assets/images/tablemapgallery5.jpg">
 
