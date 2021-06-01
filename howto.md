@@ -21,7 +21,7 @@ Useful terms to search for in the field **Text search** include: _complete speci
 
 <img src="/assets/images/detail5.jpg">
 
-Using the buttons below the green boxes, one can switch between a table view (displaying all matching records), a map view (displaying georeferenced matching records) and a gallery view (displaying photographs of matching records). Use the Download button to download your selected records through GBIF.
+Using the buttons below the green boxes, one can switch between a table view (displaying all matching records), a map view (displaying georeferenced matching records) and a gallery view (displaying photographs of matching records). Use the Download button to download your selected records through [GBIF](https://www.gbif.org/).
 
 <img src="/assets/images/tablemapgallery5.jpg">
 
