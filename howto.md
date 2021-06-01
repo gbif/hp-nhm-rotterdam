@@ -17,7 +17,7 @@ For example, by clicking **Scientific name**, searching for _Mammuthus primigeni
 
 <img src="/assets/images/examplequery5.jpg">
 
-Useful terms to search for in the field **Text search** include: _complete specimen_, _mount_, _skeleton_, _skull_ and _study skin_. To search for material kept on alcohol, use the term _alcohol_ in the box **Text search**. Searching for individual (often fossil) skeletal elements (e.g. _calcaneum_, _canine_, _mandibula_, _patella_) is also possible in that box. When searching for a part of a locality string, e.g. _Hoek van Holland_ (being part of _Rotterdam, Hoek van Holland_) be sure to include asterisks, e.g. _*Hoek van Holland*_ and click the appropriate suggestion from the menu that appears. To limit results to either fossil or recent (preserved) specimens, use the box **Basis of record**. Finally, simply click a record to see all details of that particular specimen. 
+Useful terms to search for in the field **Text search** include: _complete specimen_, _mount_, _skeleton_, _skull_ and _study skin_. To search for material kept on alcohol, use the term _alcohol_ in the box **Text search**. Searching for individual (often fossil) skeletal elements (e.g. _calcaneum_, _canine_, _mandibula_, _patella_) is also possible in that box. When searching for a part of a locality string in **Locality**, e.g. _Hoek van Holland_ (being part of _Rotterdam, Hoek van Holland_) be sure to include asterisks, e.g. _*Hoek van Holland*_ and click the appropriate suggestion from the menu that appears. To limit results to either fossil or recent (preserved) specimens, use the box **Basis of record**. Finally, simply click a record to see all details of that particular specimen. 
 
 <img src="/assets/images/detail5.jpg">
 
