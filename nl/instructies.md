@@ -21,7 +21,7 @@ Handige termen voor **Text search** zijn: _complete specimen_, _mount_ (opgezett
 
 <img src="/assets/images/detail5.jpg">
 
-Met de knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle matchende monsters) naar een kaart (met matches die geografische coördinaten hebben) en een galerij (met matches die voorzien zijn van een of meer foto's). Met de Download knop kunnen de resultaten via GBIF worden gedownload.
+Met de knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle matchende monsters) naar een kaart (met matches die geografische coördinaten hebben) en een galerij (met matches die voorzien zijn van een of meer foto's). Met de Download knop kunnen de resultaten via [GBIF](https://www.gbif.org/) worden gedownload.
 
 <img src="/assets/images/tablemapgallery5.jpg">
 
