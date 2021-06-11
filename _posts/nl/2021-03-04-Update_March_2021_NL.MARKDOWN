@@ -16,8 +16,8 @@ Geleedpotigen |
 Mollusken | 
 Bedektzadigen | 
 Zeezoogdieren | 
-Landzoogdieren | 
 Vogels | 
+Landzoogdieren | 
 Mossen | 
 Kreefachtigen | 
 Beenvissen | 
