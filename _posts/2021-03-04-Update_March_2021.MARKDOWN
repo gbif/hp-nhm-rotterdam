@@ -10,7 +10,7 @@ The natural history collection dataset of the [Natural History Museum Rotterdam]
 
 Taxonomic group | Number of new records
 ---------- | ----------  
-Specimen photos | 
+with specimen photos | 
 Arthropods | 
 Molluscs | 
 Flowering plants | 
