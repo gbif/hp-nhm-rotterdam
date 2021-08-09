@@ -11,7 +11,7 @@ De dataset met de gedigitaliseerde collectie van het [Natuurhistorisch Museum Ro
 
 Taxonomische groep | Aantal nieuwe monsters
 ---------- | ----------  
-Objectfoto's | 
+met objectfoto's | 
 Geleedpotigen | 
 Mollusken | 
 Bedektzadigen | 
