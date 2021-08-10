@@ -8,3 +8,7 @@ terms:
   nl: "test"
 acceptTerms:
   nl: "Accepteren"
+terms:
+  nl: "Deze website maakt gebruik van cookies. U kunt niet-essentiële cookies weigeren door "Niet akkoord" te selecteren. Zie onze [Privacy Policy](https://hp-nhm-rotterdam.gbif-staging.org/privacy) voor meer informatie."
+rejectTerms:
+  nl: "Niet akkoord"
