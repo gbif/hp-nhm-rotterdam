@@ -8,9 +8,9 @@ columns:
     - text: NLBIF
       href: https://www.nlbif.nl/
     
-  - name: Code
+  - name: GBIF
     description: | # Can be Markdown
-      This project is open source. 
+      This hosted portal was made possible by [GBIF](https://www.gbif.org/). 
  # See `_data/footer.yml` to customize the footer.
 
   - name: Contact
