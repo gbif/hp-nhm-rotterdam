@@ -10,7 +10,7 @@ columns:
     
   - name: Code
     description: | # Can be Markdown
-      Dit project is open source.
+      Deze website is mogelijk gemaakt door [GBIF](https://www.gbif.org/).
   
   - name: Contact
     description: | # Can be Markdown Social icons links defined in `_config.yml`
