@@ -1,5 +1,5 @@
 ---
-title:  "Dataset update october 2021"
+title:  "Dataset update oktober 2021"
 date:   2021-10-06
 categories: update
 lang: nl
