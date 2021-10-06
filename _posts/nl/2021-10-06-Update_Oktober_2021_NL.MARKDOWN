@@ -16,7 +16,7 @@ met objectfoto's | 100
 Geleedpotigen | 2640
 Mollusken | 652
 Zeezoogdieren | 22
-Vogels | 8295
+Vogels | 14
 Landzoogdieren | 98
 Kreefachtigen | 10
 Beenvissen | 2
