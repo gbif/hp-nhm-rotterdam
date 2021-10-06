@@ -15,7 +15,7 @@ with specimen photos | 100
 Arthropods | 2640
 Molluscs | 652
 Marine mammals | 22
-Birds | 8295
+Birds | 14
 Land mammals | 98
 Crustaceans | 10
 Bony fishes | 2
