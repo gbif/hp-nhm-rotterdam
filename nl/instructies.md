@@ -23,6 +23,6 @@ Handige termen voor **Vrij tekstzoekveld** zijn: _complete specimen_, _mount_ (o
 
 Met de knoppen onder de groene knoppen kan de weergave gewijzigd worden van een tabel (met alle overeenkomende monsters) naar een kaart (met overeenkomende monsters die geografische coördinaten hebben) en een galerij (met overeenkomende monsters die voorzien zijn van een of meer foto's). Met de Download knop kunnen de resultaten via [GBIF](https://www.gbif.org/) worden gedownload. Volg de instructies van GBIF; login bij GBIF of maak een account aan. Men kan kiezen voor een **Darwin Core Archive**, waarmee een map met diverse bestanden wordt gedownload; alle ruwe en door GBIF geïnterpreteerde data bevinden zich in het bestand occurrence.txt (tab is het scheidingsteken). Men kan ook kiezen voor de optie **Simple**, waarmee een csv bestand (tab is het scheidingsteken) met het grootste deel van de data wordt gedownload. Beide bestanden kunnen worden geopend met elk programma dat geschikt is voor dergelijke bestanden (zoals Microsoft Excel of LibreOffice Calc).
 
-<img src="/assets/images/tablemapgallery5.jpg">
+<img src="/assets/images/tablemapgallery5NL.jpg">
 
 Neem gerust [contact](https://www.hetnatuurhistorisch.nl/contact/) op bij vragen over de collectie of het gebruik van de database.
