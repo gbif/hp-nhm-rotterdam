@@ -47,4 +47,5 @@ Gymnosperms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dat
 Lampreys | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=239&limit=0"></span>
 Round worms | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=5967481&limit=0"></span>
 
+<iframe src="https://www.gbif.org/api/widgets/literature/button?gbifDatasetKey=a307e4d7-1de2-4adc-95d5-a0a8d5f57236" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="false" style="width: 140px; height: 24px;"></iframe>
 
