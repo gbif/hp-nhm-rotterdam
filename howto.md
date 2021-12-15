@@ -15,11 +15,11 @@ On the [Database page](https://hp-nhm-rotterdam.gbif-staging.org/data) the colle
 
 For example, by clicking **Scientific name**, searching for _Mammuthus primigenius_ and clicking the appropriate option from the suggestions, all specimens of that taxon are displayed. This can be further refined by selecting other boxes and adding data in there. The box **Text search** is very useful. By querying **Scientific name** for _Mammuthus primigenius_ and **Text search** for _femur_, all woolly mammoth femurs in the museum collection are displayed.
 
-<img src="/assets/images/examplequery5.jpg">
+<img src="/assets/images/examplequery6.jpg">
 
 Useful terms to search for in the field **Text search** include: _complete specimen_, _mount_, _skeleton_, _skull_ and _study skin_. To search for material kept on alcohol, use the term _alcohol_ in the box **Text search**. Searching for individual (often fossil) skeletal elements (e.g. _calcaneum_, _canine_, _mandibula_, _patella_) is also possible in that box. When searching for a part of a locality string in **Locality**, e.g. _Hoek van Holland_ (being part of _Rotterdam, Hoek van Holland_) be sure to include asterisks, e.g. _*Hoek van Holland*_ and click the appropriate suggestion from the menu that appears. To limit results to either fossil or recent (preserved) specimens, use the box **Basis of record**. Finally, simply click a record to see all details of that particular specimen. 
 
-<img src="/assets/images/detail5.jpg">
+<img src="/assets/images/detail6.jpg">
 
 Using the buttons below the green boxes, one can switch between a table view (displaying all matching records), a map view (displaying georeferenced matching records) and a gallery view (displaying photographs of matching records). Use the Download button to download your selected records through [GBIF](https://www.gbif.org/). Follow the instructions provided by GBIF; that is either login to GBIF or create an account. One can then choose the option **Darwin Core Archive**, which downloads a folder with several files; all raw data as well as the interpreted data by GBIF are contained in the tab-delimited file occurrence.txt. Alternatively, one could choose the option **Simple**, which downloads a single tab-delimited csv file that contains most of the data. Either file can be opened with any program that can handle such files (e.g. Microsoft Excel or LibreOffice Calc).
 
