@@ -6,7 +6,7 @@ lang-ref: dataset update october, 2021
 background: /assets/images/NMR998900172803Blowresframe.jpg
 ---
 
-The natural history collection dataset of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) on [GBIF](https://www.gbif.org/) and available through this portal has been updated with newly acquired specimens and newly digitized specimens from the established collection. There are now 354,646 specimen records online. Below is a summary of the changes. Go ahead and [explore](https://hp-nhm-rotterdam.gbif-staging.org/data)!
+The natural history collection dataset of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) on [GBIF](https://www.gbif.org/) and available through this portal has been updated with newly acquired specimens and newly digitized specimens from the established collection. There are now 354,646 specimen records online. Below is a summary of the changes. Go ahead and [explore](https://specimens.hetnatuurhistorisch.nl/data)!
 
 Taxonomic group | Number of new records
 ---------- | ----------  
