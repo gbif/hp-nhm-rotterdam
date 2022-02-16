@@ -48,7 +48,7 @@ Naaktzadigen | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?da
 Prikken | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=239&limit=0"></span>
 Rondwormen | <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?dataset_key=a307e4d7-1de2-4adc-95d5-a0a8d5f57236&taxon_key=5967481&limit=0"></span>
 
-## Over de online collectiedatabse
+## Over de online collectiedatabase
 Achtergrondinformatie over de online collectiedatabase is [hier](https://www.hetnatuurhistorisch.nl/fileadmin/user_upload/documents-nmr/Straatgras/Straatgras_2021/Straatgras_2021_2/Straatgras_2021_2_Een_nieuwe_online_collectiedatabase.pdf) te vinden. Achtergrondinformatie over de interne collectiedatabase is [hier](https://www.hetnatuurhistorisch.nl/fileadmin/user_upload/documents-nmr/Straatgras/Straatgras_2020/Straatgras_2020_1_CB4.pdf) te vinden.
 
 {% comment %} 
