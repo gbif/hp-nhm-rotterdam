@@ -7,7 +7,7 @@ lang-ref: dataset update november, 2021
 background: /assets/images/NMR997000001174A.jpg
 ---
 
-De dataset met de gedigitaliseerde collectie van het [Natuurhistorisch Museum Rotterdam](https://www.hetnatuurhistorisch.nl/) op [GBIF](https://www.gbif.org/) en raadpleegbaar via deze website is geüpdated met nieuwe aanwinsten en gedigitaliseerde gegevens van oudere monsters in de collectie. Er zijn nu 356.425 monsters [online](https://specimens.hetnatuurhistorisch.nl/nl/data.html). Hieronder volgt een samenvatting van de wijzigingen. 
+De dataset met de gedigitaliseerde collectie van het [Natuurhistorisch Museum Rotterdam](https://www.hetnatuurhistorisch.nl/) op [GBIF](https://www.gbif.org/) en raadpleegbaar via deze website is geüpdated met nieuwe aanwinsten en gedigitaliseerde gegevens van oudere monsters in de collectie. Er zijn nu 356.425 monsters [online](https://specimens.hetnatuurhistorisch.nl/nl/data). Hieronder volgt een samenvatting van de wijzigingen. 
 
 Taxonomische groep | Aantal nieuwe monsters
 ---------- | ----------  
