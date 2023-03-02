@@ -1,0 +1,29 @@
+---
+title:  "Dataset update March, 2023"
+date:   2023-03-02
+categories: update
+lang-ref: dataset update march, 2023
+background: /assets/images/update202303.jpg
+---
+
+The natural history collection dataset of the [Natural History Museum Rotterdam](https://www.hetnatuurhistorisch.nl/en) on [GBIF](https://www.gbif.org/) and available through this portal has been updated with newly acquired specimens and newly digitized specimens from the established collection. There are now 371,391 specimen records online. Below is a summary of the changes. Go ahead and [explore](https://specimens.hetnatuurhistorisch.nl/data)!
+
+Taxonomic group | Number of new records
+---------- | ---------- 
+Total | 3674
+Arthropods | 1829
+Molluscs | 1036
+Flowering plants | 13
+Marine mammals | 15
+Land mammals | 619
+Birds | 15
+Mosses | 11
+Crustaceans | 32
+Fungi | 2
+Cartilaginous fishes | 5
+Echinoderms | 29
+Ringed worms | 7
+Tunicates | 1
+Round worms | 1
+
+The next update of the dataset will be in circa 3 months.
