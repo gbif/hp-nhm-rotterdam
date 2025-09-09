@@ -9,7 +9,7 @@ height: 70vh
 ---
 
 ## Querying the dataset
-On the [Database page](https://hp-nhm-rotterdam.gbif-staging.org/data) the collection data of the Natural History Museum Rotterdam is displayed. By clicking the green boxes (e.g. **Scientific name**) displayed above on that page, one can search that particular field and limit the displayed records to their query.
+On the [Database page](https://nhm-rotterdam.hp.gbif-staging.org/data) the collection data of the Natural History Museum Rotterdam is displayed. By clicking the green boxes (e.g. **Scientific name**) displayed above on that page, one can search that particular field and limit the displayed records to their query.
 
 <img src="/assets/images/greenboxes5.jpg">
 

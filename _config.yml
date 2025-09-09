@@ -23,7 +23,7 @@ email: info@nmr.nl
 description: >- # this means to ignore newlines (until baseurl:)
   Search the digitized collection of the Natural History Museum Rotterdam, which contains over 330,000 specimen records and over 20,000 photos. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-nhm-rotterdam.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://specimens.hetnatuurhistorisch.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hetnatuurhist
 facebook_username: hetnatuurhistorisch
 # github_username:  langeveldNMR
@@ -39,7 +39,7 @@ remote_theme: gbif/jekyll-hp-base-theme
 # for usage in the standard privacy layout
 privacy:
   name: Online database of the Natural History Museum Rotterdam
-  domain: hp-nhm-rotterdam.gbif-staging.org
+  domain: specimens.hetnatuurhistorisch.nl
   contactEmail: info@nmr.nl
   helpdeskEmail: info@nmr.nl
 
